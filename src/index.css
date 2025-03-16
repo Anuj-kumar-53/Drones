@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body{
+  margin: 0%;
+  padding: 0%;
+
+}
+.container{
+  margin: 0%;
+  padding-top: 15px;
+  background-image: url('https://canvastemplate.com/demos/drone/images/drone-2.jpg');
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+}
+
